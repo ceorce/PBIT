@@ -1,0 +1,7 @@
+sqlalchemy>=2
+pydantic>=2
+python-dotenv
+requests
+lxml
+apscheduler
+psycopg[binary]
